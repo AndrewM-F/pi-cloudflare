@@ -1,6 +1,6 @@
 {
   "name": "pi-cloudflare",
-  "version": "0.11.15",
+  "version": "0.11.16",
   "description": "Cloudflare Agent Plugin: the official Cloudflare skills library plus cf-first hardening and cf CLI skills.",
   "keywords": [
     "agent-plugin",
