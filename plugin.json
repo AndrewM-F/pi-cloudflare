@@ -4,11 +4,11 @@
   "version": "0.11.15",
   "description": "Cloudflare skills: the official Cloudflare skills library plus cf-first hardening and cf CLI skills. Tools live in the cf CLI, not in this plugin.",
   "author": {
-    "name": "0xPlayerOne",
-    "url": "https://github.com/0xPlayerOne"
+    "name": "AndrewM-F",
+    "url": "https://github.com/AndrewM-F"
   },
-  "homepage": "https://github.com/0xPlayerOne/pi-cloudflare#readme",
-  "repository": "https://github.com/0xPlayerOne/pi-cloudflare",
+  "homepage": "https://github.com/AndrewM-F/pi-cloudflare#readme",
+  "repository": "https://github.com/AndrewM-F/pi-cloudflare",
   "license": "MIT",
   "keywords": [
     "cloudflare",

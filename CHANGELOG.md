@@ -1,111 +1,111 @@
 # Changelog
 
-## [0.11.15](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.14...pi-cloudflare-v0.11.15) (2026-10-24)
+## [0.11.15](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.14...pi-cloudflare-v0.11.15) (2026-10-24)
 
 
 ### Maintenance
 
-* update Cloudflare skills for Code Foundry 1.48.8 and Pi 1.4.0 ([#120](https://github.com/0xPlayerOne/pi-cloudflare/issues/120)) ([d75b36b](https://github.com/0xPlayerOne/pi-cloudflare/commit/d75b36b41c6e4406bb7ea116c66956936132c7db))
+* update Cloudflare skills for Code Foundry 1.48.8 and Pi 1.4.0 ([#120](https://github.com/AndrewM-F/pi-cloudflare/issues/120)) ([d75b36b](https://github.com/AndrewM-F/pi-cloudflare/commit/d75b36b41c6e4406bb7ea116c66956936132c7db))
 
-## [0.11.14](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.13...pi-cloudflare-v0.11.14) (2026-10-22)
-
-
-### Maintenance
-
-* bun-1.4.4-cloud ([#118](https://github.com/0xPlayerOne/pi-cloudflare/issues/118)) ([f909e67](https://github.com/0xPlayerOne/pi-cloudflare/commit/f909e679886627924af4e112f955378c80613838))
-
-## [0.11.13](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.12...pi-cloudflare-v0.11.13) (2026-10-08)
+## [0.11.14](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.13...pi-cloudflare-v0.11.14) (2026-10-22)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.47.1 ([#115](https://github.com/0xPlayerOne/pi-cloudflare/issues/115)) ([4ada696](https://github.com/0xPlayerOne/pi-cloudflare/commit/4ada6967a39af0439999466fd786a7a55a5e7bd0))
+* bun-1.4.4-cloud ([#118](https://github.com/AndrewM-F/pi-cloudflare/issues/118)) ([f909e67](https://github.com/AndrewM-F/pi-cloudflare/commit/f909e679886627924af4e112f955378c80613838))
 
-## [0.11.12](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.11...pi-cloudflare-v0.11.12) (2026-10-03)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.44.3 ([#113](https://github.com/0xPlayerOne/pi-cloudflare/issues/113)) ([c09c69b](https://github.com/0xPlayerOne/pi-cloudflare/commit/c09c69bffe1ec614401d4038e4612b4f0abe9ed3))
-
-## [0.11.11](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.10...pi-cloudflare-v0.11.11) (2026-10-02)
+## [0.11.13](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.12...pi-cloudflare-v0.11.13) (2026-10-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.41.0 ([#111](https://github.com/0xPlayerOne/pi-cloudflare/issues/111)) ([dff8971](https://github.com/0xPlayerOne/pi-cloudflare/commit/dff897185ac7c592dcf0aff092e60cd128de8bc1))
+* **code-foundry:** upgrade runtime to v1.47.1 ([#115](https://github.com/AndrewM-F/pi-cloudflare/issues/115)) ([4ada696](https://github.com/AndrewM-F/pi-cloudflare/commit/4ada6967a39af0439999466fd786a7a55a5e7bd0))
 
-## [0.11.10](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.9...pi-cloudflare-v0.11.10) (2026-10-02)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.40.0 ([#109](https://github.com/0xPlayerOne/pi-cloudflare/issues/109)) ([f48ad01](https://github.com/0xPlayerOne/pi-cloudflare/commit/f48ad01f0a142bdbd91f9dc670a4cf8eba84d85c))
-
-## [0.11.9](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.8...pi-cloudflare-v0.11.9) (2026-09-30)
+## [0.11.12](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.11...pi-cloudflare-v0.11.12) (2026-10-03)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.38.1 ([#107](https://github.com/0xPlayerOne/pi-cloudflare/issues/107)) ([e0f25fd](https://github.com/0xPlayerOne/pi-cloudflare/commit/e0f25fd9ef843bb4272da812f15596a325d09585))
+* **code-foundry:** upgrade runtime to v1.44.3 ([#113](https://github.com/AndrewM-F/pi-cloudflare/issues/113)) ([c09c69b](https://github.com/AndrewM-F/pi-cloudflare/commit/c09c69bffe1ec614401d4038e4612b4f0abe9ed3))
 
-## [0.11.8](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.7...pi-cloudflare-v0.11.8) (2026-09-30)
+## [0.11.11](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.10...pi-cloudflare-v0.11.11) (2026-10-02)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.38.0 ([#104](https://github.com/0xPlayerOne/pi-cloudflare/issues/104)) ([9bfdf70](https://github.com/0xPlayerOne/pi-cloudflare/commit/9bfdf70219b7cdb09b3d65131a10389f62a7869d))
+* **code-foundry:** upgrade runtime to v1.41.0 ([#111](https://github.com/AndrewM-F/pi-cloudflare/issues/111)) ([dff8971](https://github.com/AndrewM-F/pi-cloudflare/commit/dff897185ac7c592dcf0aff092e60cd128de8bc1))
 
-## [0.11.7](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.6...pi-cloudflare-v0.11.7) (2026-09-30)
+## [0.11.10](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.9...pi-cloudflare-v0.11.10) (2026-10-02)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.40.0 ([#109](https://github.com/AndrewM-F/pi-cloudflare/issues/109)) ([f48ad01](https://github.com/AndrewM-F/pi-cloudflare/commit/f48ad01f0a142bdbd91f9dc670a4cf8eba84d85c))
+
+## [0.11.9](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.8...pi-cloudflare-v0.11.9) (2026-09-30)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.38.1 ([#107](https://github.com/AndrewM-F/pi-cloudflare/issues/107)) ([e0f25fd](https://github.com/AndrewM-F/pi-cloudflare/commit/e0f25fd9ef843bb4272da812f15596a325d09585))
+
+## [0.11.8](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.7...pi-cloudflare-v0.11.8) (2026-09-30)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade to v1.38.0 ([#104](https://github.com/AndrewM-F/pi-cloudflare/issues/104)) ([9bfdf70](https://github.com/AndrewM-F/pi-cloudflare/commit/9bfdf70219b7cdb09b3d65131a10389f62a7869d))
+
+## [0.11.7](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.6...pi-cloudflare-v0.11.7) (2026-09-30)
 
 
 ### Documentation
 
-* **api-token:** route the token guide through the cf CLI ([#103](https://github.com/0xPlayerOne/pi-cloudflare/issues/103)) ([f65a197](https://github.com/0xPlayerOne/pi-cloudflare/commit/f65a1972316cc9cc2878a601bef074b8d19f725c))
+* **api-token:** route the token guide through the cf CLI ([#103](https://github.com/AndrewM-F/pi-cloudflare/issues/103)) ([f65a197](https://github.com/AndrewM-F/pi-cloudflare/commit/f65a1972316cc9cc2878a601bef074b8d19f725c))
 
-## [0.11.6](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.5...pi-cloudflare-v0.11.6) (2026-09-30)
+## [0.11.6](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.5...pi-cloudflare-v0.11.6) (2026-09-30)
 
 
 ### Bug Fixes
 
-* **pkg:** declare a Node engine range instead of an exact pin ([#101](https://github.com/0xPlayerOne/pi-cloudflare/issues/101)) ([d738760](https://github.com/0xPlayerOne/pi-cloudflare/commit/d738760157dd446ec1585d4898f7d57074acdd8d))
+* **pkg:** declare a Node engine range instead of an exact pin ([#101](https://github.com/AndrewM-F/pi-cloudflare/issues/101)) ([d738760](https://github.com/AndrewM-F/pi-cloudflare/commit/d738760157dd446ec1585d4898f7d57074acdd8d))
 
-## [0.11.5](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.4...pi-cloudflare-v0.11.5) (2026-09-29)
-
-
-### Maintenance
-
-* **ci:** switch Dependabot to bun ecosystem for bun.lock repo ([#82](https://github.com/0xPlayerOne/pi-cloudflare/issues/82)) ([23d8276](https://github.com/0xPlayerOne/pi-cloudflare/commit/23d82765e92086a1f3a136ea4ff5f32f61e24ca0))
-
-## [0.11.4](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.3...pi-cloudflare-v0.11.4) (2026-09-29)
+## [0.11.5](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.4...pi-cloudflare-v0.11.5) (2026-09-29)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade runtime to v1.36.4 ([#98](https://github.com/0xPlayerOne/pi-cloudflare/issues/98)) ([3462b80](https://github.com/0xPlayerOne/pi-cloudflare/commit/3462b80693b7ea25ab33acc03a90b33c0eb3aff4))
+* **ci:** switch Dependabot to bun ecosystem for bun.lock repo ([#82](https://github.com/AndrewM-F/pi-cloudflare/issues/82)) ([23d8276](https://github.com/AndrewM-F/pi-cloudflare/commit/23d82765e92086a1f3a136ea4ff5f32f61e24ca0))
 
-## [0.11.3](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.2...pi-cloudflare-v0.11.3) (2026-09-29)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade to v1.35.0 ([#94](https://github.com/0xPlayerOne/pi-cloudflare/issues/94)) ([0af0295](https://github.com/0xPlayerOne/pi-cloudflare/commit/0af02957bb6d05b83e654f391cbdfd4749dc2b18))
-
-## [0.11.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.1...pi-cloudflare-v0.11.2) (2026-09-29)
+## [0.11.4](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.3...pi-cloudflare-v0.11.4) (2026-09-29)
 
 
 ### Maintenance
 
-* add the missing oxlint devDependency ([#95](https://github.com/0xPlayerOne/pi-cloudflare/issues/95)) ([c10dabd](https://github.com/0xPlayerOne/pi-cloudflare/commit/c10dabd1035b9d135ef20c5b1a741472fb7aee78))
+* **code-foundry:** upgrade runtime to v1.36.4 ([#98](https://github.com/AndrewM-F/pi-cloudflare/issues/98)) ([3462b80](https://github.com/AndrewM-F/pi-cloudflare/commit/3462b80693b7ea25ab33acc03a90b33c0eb3aff4))
 
-## [0.11.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.11.0...pi-cloudflare-v0.11.1) (2026-09-29)
+## [0.11.3](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.2...pi-cloudflare-v0.11.3) (2026-09-29)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade to v1.35.0 ([#94](https://github.com/AndrewM-F/pi-cloudflare/issues/94)) ([0af0295](https://github.com/AndrewM-F/pi-cloudflare/commit/0af02957bb6d05b83e654f391cbdfd4749dc2b18))
+
+## [0.11.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.1...pi-cloudflare-v0.11.2) (2026-09-29)
+
+
+### Maintenance
+
+* add the missing oxlint devDependency ([#95](https://github.com/AndrewM-F/pi-cloudflare/issues/95)) ([c10dabd](https://github.com/AndrewM-F/pi-cloudflare/commit/c10dabd1035b9d135ef20c5b1a741472fb7aee78))
+
+## [0.11.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.0...pi-cloudflare-v0.11.1) (2026-09-29)
 
 
 ### Documentation
 
-* **readme:** point the development section at npm test ([#92](https://github.com/0xPlayerOne/pi-cloudflare/issues/92)) ([188cae5](https://github.com/0xPlayerOne/pi-cloudflare/commit/188cae5c1d25bc87c133b2139cb8b19b9d843cb6))
+* **readme:** point the development section at npm test ([#92](https://github.com/AndrewM-F/pi-cloudflare/issues/92)) ([188cae5](https://github.com/AndrewM-F/pi-cloudflare/commit/188cae5c1d25bc87c133b2139cb8b19b9d843cb6))
 
-## [0.11.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.10.2...pi-cloudflare-v0.11.0) (2026-09-29)
+## [0.11.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.10.2...pi-cloudflare-v0.11.0) (2026-09-29)
 
 
 ### ⚠ BREAKING CHANGES
@@ -114,325 +114,325 @@
 
 ### Features
 
-* **config:** cf-first MCP server defaults ([#90](https://github.com/0xPlayerOne/pi-cloudflare/issues/90)) ([d640388](https://github.com/0xPlayerOne/pi-cloudflare/commit/d640388b9092e46ed205a71477d1b9d51cadaf65))
+* **config:** cf-first MCP server defaults ([#90](https://github.com/AndrewM-F/pi-cloudflare/issues/90)) ([d640388](https://github.com/AndrewM-F/pi-cloudflare/commit/d640388b9092e46ed205a71477d1b9d51cadaf65))
 
-## [0.10.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.10.1...pi-cloudflare-v0.10.2) (2026-09-29)
-
-
-### Documentation
-
-* no-global-wrangler ([#88](https://github.com/0xPlayerOne/pi-cloudflare/issues/88)) ([29c78ea](https://github.com/0xPlayerOne/pi-cloudflare/commit/29c78ea68dd88243ca6d35c71db5796d2238b3c8))
-
-## [0.10.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.10.0...pi-cloudflare-v0.10.1) (2026-09-29)
+## [0.10.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.10.1...pi-cloudflare-v0.10.2) (2026-09-29)
 
 
 ### Documentation
 
-* **skills:** never launch wrangler under the Bun runtime ([#86](https://github.com/0xPlayerOne/pi-cloudflare/issues/86)) ([d3b1a90](https://github.com/0xPlayerOne/pi-cloudflare/commit/d3b1a901f6c4880a0381da15504587768e324052))
+* no-global-wrangler ([#88](https://github.com/AndrewM-F/pi-cloudflare/issues/88)) ([29c78ea](https://github.com/AndrewM-F/pi-cloudflare/commit/29c78ea68dd88243ca6d35c71db5796d2238b3c8))
 
-## [0.10.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.5...pi-cloudflare-v0.10.0) (2026-09-29)
+## [0.10.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.10.0...pi-cloudflare-v0.10.1) (2026-09-29)
+
+
+### Documentation
+
+* **skills:** never launch wrangler under the Bun runtime ([#86](https://github.com/AndrewM-F/pi-cloudflare/issues/86)) ([d3b1a90](https://github.com/AndrewM-F/pi-cloudflare/commit/d3b1a901f6c4880a0381da15504587768e324052))
+
+## [0.10.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.5...pi-cloudflare-v0.10.0) (2026-09-29)
 
 
 ### Features
 
-* **skills:** add cloudflare-cf-cli skill and document the cf CLI ([#83](https://github.com/0xPlayerOne/pi-cloudflare/issues/83)) ([4c79964](https://github.com/0xPlayerOne/pi-cloudflare/commit/4c799649483ed239a9e1934e97e9cf8e484f21b2))
+* **skills:** add cloudflare-cf-cli skill and document the cf CLI ([#83](https://github.com/AndrewM-F/pi-cloudflare/issues/83)) ([4c79964](https://github.com/AndrewM-F/pi-cloudflare/commit/4c799649483ed239a9e1934e97e9cf8e484f21b2))
 
 
 ### Documentation
 
-* **skills:** record the migration traps hit rolling cf out to the estate ([#85](https://github.com/0xPlayerOne/pi-cloudflare/issues/85)) ([b69cefe](https://github.com/0xPlayerOne/pi-cloudflare/commit/b69cefe6885d28dca2120cadd41a369c8a14fc36))
+* **skills:** record the migration traps hit rolling cf out to the estate ([#85](https://github.com/AndrewM-F/pi-cloudflare/issues/85)) ([b69cefe](https://github.com/AndrewM-F/pi-cloudflare/commit/b69cefe6885d28dca2120cadd41a369c8a14fc36))
 
-## [0.9.5](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.4...pi-cloudflare-v0.9.5) (2026-09-22)
+## [0.9.5](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.4...pi-cloudflare-v0.9.5) (2026-09-22)
 
 
 ### Documentation
 
-* **skills:** asset caching patterns, R2 CDN limits, and rule budgets ([#80](https://github.com/0xPlayerOne/pi-cloudflare/issues/80)) ([d1c04ec](https://github.com/0xPlayerOne/pi-cloudflare/commit/d1c04ec610826e55840162b28e6187ea0749707b))
+* **skills:** asset caching patterns, R2 CDN limits, and rule budgets ([#80](https://github.com/AndrewM-F/pi-cloudflare/issues/80)) ([d1c04ec](https://github.com/AndrewM-F/pi-cloudflare/commit/d1c04ec610826e55840162b28e6187ea0749707b))
 
-## [0.9.4](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.3...pi-cloudflare-v0.9.4) (2026-09-18)
+## [0.9.4](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.3...pi-cloudflare-v0.9.4) (2026-09-18)
 
 
 ### Bug Fixes
 
-* complete fleet toolchain alignment ([#78](https://github.com/0xPlayerOne/pi-cloudflare/issues/78)) ([4b13597](https://github.com/0xPlayerOne/pi-cloudflare/commit/4b13597ecffb11d4f83ab22a2d440c0c8406fe28))
+* complete fleet toolchain alignment ([#78](https://github.com/AndrewM-F/pi-cloudflare/issues/78)) ([4b13597](https://github.com/AndrewM-F/pi-cloudflare/commit/4b13597ecffb11d4f83ab22a2d440c0c8406fe28))
 
-## [0.9.3](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.2...pi-cloudflare-v0.9.3) (2026-09-17)
-
-
-### Maintenance
-
-* adopt Code Foundry runtime v1.30.0 ([#76](https://github.com/0xPlayerOne/pi-cloudflare/issues/76)) ([eb35775](https://github.com/0xPlayerOne/pi-cloudflare/commit/eb35775d8fc954639b6fdd50e074cf0e1c6d9339))
-
-## [0.9.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.1...pi-cloudflare-v0.9.2) (2026-09-17)
+## [0.9.3](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.2...pi-cloudflare-v0.9.3) (2026-09-17)
 
 
 ### Maintenance
 
-* toolchain-alignment ([#74](https://github.com/0xPlayerOne/pi-cloudflare/issues/74)) ([31d5946](https://github.com/0xPlayerOne/pi-cloudflare/commit/31d594610a46e7aecfef8410be57f0a483887ad7))
+* adopt Code Foundry runtime v1.30.0 ([#76](https://github.com/AndrewM-F/pi-cloudflare/issues/76)) ([eb35775](https://github.com/AndrewM-F/pi-cloudflare/commit/eb35775d8fc954639b6fdd50e074cf0e1c6d9339))
 
-## [0.9.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.9.0...pi-cloudflare-v0.9.1) (2026-09-17)
+## [0.9.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.1...pi-cloudflare-v0.9.2) (2026-09-17)
 
 
 ### Maintenance
 
-* standardize lint and format toolchain ([#71](https://github.com/0xPlayerOne/pi-cloudflare/issues/71)) ([4bc2538](https://github.com/0xPlayerOne/pi-cloudflare/commit/4bc2538bdf8891f4d84fe4a57781f364c56758de))
+* toolchain-alignment ([#74](https://github.com/AndrewM-F/pi-cloudflare/issues/74)) ([31d5946](https://github.com/AndrewM-F/pi-cloudflare/commit/31d594610a46e7aecfef8410be57f0a483887ad7))
 
-## [0.9.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.8.2...pi-cloudflare-v0.9.0) (2026-09-14)
+## [0.9.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.9.0...pi-cloudflare-v0.9.1) (2026-09-17)
+
+
+### Maintenance
+
+* standardize lint and format toolchain ([#71](https://github.com/AndrewM-F/pi-cloudflare/issues/71)) ([4bc2538](https://github.com/AndrewM-F/pi-cloudflare/commit/4bc2538bdf8891f4d84fe4a57781f364c56758de))
+
+## [0.9.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.8.2...pi-cloudflare-v0.9.0) (2026-09-14)
 
 
 ### Features
 
-* **auth:** authenticate every server with the API token and connect lazily ([#69](https://github.com/0xPlayerOne/pi-cloudflare/issues/69)) ([a5d0d92](https://github.com/0xPlayerOne/pi-cloudflare/commit/a5d0d92109e47d9f26b1d0e2babca734533a00fb))
+* **auth:** authenticate every server with the API token and connect lazily ([#69](https://github.com/AndrewM-F/pi-cloudflare/issues/69)) ([a5d0d92](https://github.com/AndrewM-F/pi-cloudflare/commit/a5d0d92109e47d9f26b1d0e2babca734533a00fb))
 
-## [0.8.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.8.1...pi-cloudflare-v0.8.2) (2026-09-12)
-
-
-### Documentation
-
-* **skills:** verify the stuck-pending DNSSEC workaround end to end ([#66](https://github.com/0xPlayerOne/pi-cloudflare/issues/66)) ([5b66f39](https://github.com/0xPlayerOne/pi-cloudflare/commit/5b66f39c6d5ba8055f0410bf83dcb40ffb5b8619))
-
-## [0.8.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.8.0...pi-cloudflare-v0.8.1) (2026-09-12)
+## [0.8.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.8.1...pi-cloudflare-v0.8.2) (2026-09-12)
 
 
 ### Documentation
 
-* **skills:** explain why API-enabled DNSSEC never publishes its DS record ([#64](https://github.com/0xPlayerOne/pi-cloudflare/issues/64)) ([949f570](https://github.com/0xPlayerOne/pi-cloudflare/commit/949f570ec7ea42771bed3e8c35090367f90510e1))
+* **skills:** verify the stuck-pending DNSSEC workaround end to end ([#66](https://github.com/AndrewM-F/pi-cloudflare/issues/66)) ([5b66f39](https://github.com/AndrewM-F/pi-cloudflare/commit/5b66f39c6d5ba8055f0410bf83dcb40ffb5b8619))
 
-## [0.8.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.7.0...pi-cloudflare-v0.8.0) (2026-09-12)
+## [0.8.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.8.0...pi-cloudflare-v0.8.1) (2026-09-12)
+
+
+### Documentation
+
+* **skills:** explain why API-enabled DNSSEC never publishes its DS record ([#64](https://github.com/AndrewM-F/pi-cloudflare/issues/64)) ([949f570](https://github.com/AndrewM-F/pi-cloudflare/commit/949f570ec7ea42771bed3e8c35090367f90510e1))
+
+## [0.8.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.7.0...pi-cloudflare-v0.8.0) (2026-09-12)
 
 
 ### Features
 
-* **skills:** add Workers coverage to cloudflare-hardening audit ([#62](https://github.com/0xPlayerOne/pi-cloudflare/issues/62)) ([5306de7](https://github.com/0xPlayerOne/pi-cloudflare/commit/5306de7817b7856678e6d39178e88f705faf22a4))
+* **skills:** add Workers coverage to cloudflare-hardening audit ([#62](https://github.com/AndrewM-F/pi-cloudflare/issues/62)) ([5306de7](https://github.com/AndrewM-F/pi-cloudflare/commit/5306de7817b7856678e6d39178e88f705faf22a4))
 
-## [0.7.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.10...pi-cloudflare-v0.7.0) (2026-09-12)
-
-
-### Features
-
-* **skills:** record the bot-detection performance cost in cloudflare-hardening ([#60](https://github.com/0xPlayerOne/pi-cloudflare/issues/60)) ([680e0a4](https://github.com/0xPlayerOne/pi-cloudflare/commit/680e0a4ee9e0b09e87016104674f2a1874f391aa))
-
-## [0.6.10](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.9...pi-cloudflare-v0.6.10) (2026-09-11)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.14 ([#57](https://github.com/0xPlayerOne/pi-cloudflare/issues/57)) ([fbe81fb](https://github.com/0xPlayerOne/pi-cloudflare/commit/fbe81fb6f13692b7cbd061b3a5db6215bbbea177))
-
-## [0.6.9](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.8...pi-cloudflare-v0.6.9) (2026-09-11)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.11 ([#55](https://github.com/0xPlayerOne/pi-cloudflare/issues/55)) ([0d21fdd](https://github.com/0xPlayerOne/pi-cloudflare/commit/0d21fdd0b469f33b92ddd287e76c0234a20d73ad))
-
-## [0.6.8](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.7...pi-cloudflare-v0.6.8) (2026-09-11)
-
-
-### Maintenance
-
-* **config:** right-size runner lanes and drop default shard overrides ([#53](https://github.com/0xPlayerOne/pi-cloudflare/issues/53)) ([ed7e60b](https://github.com/0xPlayerOne/pi-cloudflare/commit/ed7e60b59f843ffe036137d1fa985b0a0808469e))
-
-## [0.6.7](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.6...pi-cloudflare-v0.6.7) (2026-09-11)
-
-
-### Documentation
-
-* **audit:** free-plan hardening applied across 16 zones ([#51](https://github.com/0xPlayerOne/pi-cloudflare/issues/51)) ([ef2b6eb](https://github.com/0xPlayerOne/pi-cloudflare/commit/ef2b6eb575b91609644274d7a681d7dd680239d0))
-
-## [0.6.6](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.5...pi-cloudflare-v0.6.6) (2026-09-11)
-
-
-### Documentation
-
-* **token:** running PR — agent API token permission gaps ([#49](https://github.com/0xPlayerOne/pi-cloudflare/issues/49)) ([4303740](https://github.com/0xPlayerOne/pi-cloudflare/commit/4303740ec9f3b5a7a9900cdf1c4a5d94b05fc14a))
-
-## [0.6.5](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.4...pi-cloudflare-v0.6.5) (2026-09-10)
-
-
-### Bug Fixes
-
-* **config:** correct validation file references ([#47](https://github.com/0xPlayerOne/pi-cloudflare/issues/47)) ([1b467cb](https://github.com/0xPlayerOne/pi-cloudflare/commit/1b467cbffaf71ad34965a3b675311caa7bab7d42))
-
-## [0.6.4](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.3...pi-cloudflare-v0.6.4) (2026-09-10)
-
-
-### Maintenance
-
-* **code-foundry:** upgrade runtime to v1.28.4 ([b1a264b](https://github.com/0xPlayerOne/pi-cloudflare/commit/b1a264b21b791de274c25b240a7a19a8bda98a61))
-
-## [0.6.3](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.2...pi-cloudflare-v0.6.3) (2026-09-10)
-
-
-### Maintenance
-
-* **ci:** upgrade Code Foundry to v1.22.1 ([0030a7c](https://github.com/0xPlayerOne/pi-cloudflare/commit/0030a7ccf600de2e8c719e1e69003364ea8c3b54))
-* **token:** permissions + result caps + node 24 + CF v1.28.2 ([#42](https://github.com/0xPlayerOne/pi-cloudflare/issues/42)) ([0030a7c](https://github.com/0xPlayerOne/pi-cloudflare/commit/0030a7ccf600de2e8c719e1e69003364ea8c3b54))
-
-## [0.6.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.1...pi-cloudflare-v0.6.2) (2026-09-09)
-
-
-### Bug Fixes
-
-* **auth:** load native static API token ([#39](https://github.com/0xPlayerOne/pi-cloudflare/issues/39)) ([a1a8742](https://github.com/0xPlayerOne/pi-cloudflare/commit/a1a8742553f550dba3533db5a0a7d99c0f25f68a))
-
-## [0.6.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.6.0...pi-cloudflare-v0.6.1) (2026-09-09)
-
-
-### Bug Fixes
-
-* **auth:** recover from empty-body MCP auth failures ([#37](https://github.com/0xPlayerOne/pi-cloudflare/issues/37)) ([dbb5a88](https://github.com/0xPlayerOne/pi-cloudflare/commit/dbb5a88e242caeb85dfbc48fd2bfd86158f0783e))
-
-## [0.6.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.5...pi-cloudflare-v0.6.0) (2026-09-08)
+## [0.7.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.10...pi-cloudflare-v0.7.0) (2026-09-12)
 
 
 ### Features
 
-* add Agent Plugins 1.0 dual distribution ([#34](https://github.com/0xPlayerOne/pi-cloudflare/issues/34)) ([a4499b3](https://github.com/0xPlayerOne/pi-cloudflare/commit/a4499b3c9147678947eb63f7fd0448a475adda66))
+* **skills:** record the bot-detection performance cost in cloudflare-hardening ([#60](https://github.com/AndrewM-F/pi-cloudflare/issues/60)) ([680e0a4](https://github.com/AndrewM-F/pi-cloudflare/commit/680e0a4ee9e0b09e87016104674f2a1874f391aa))
 
-
-### Bug Fixes
-
-* **ci:** ignore release-managed plugin manifest formatting ([#36](https://github.com/0xPlayerOne/pi-cloudflare/issues/36)) ([f2bb1da](https://github.com/0xPlayerOne/pi-cloudflare/commit/f2bb1da3393d7c2d8a4cede625fc51a2edcfad4b))
-
-## [0.5.5](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.4...pi-cloudflare-v0.5.5) (2026-09-08)
+## [0.6.10](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.9...pi-cloudflare-v0.6.10) (2026-09-11)
 
 
 ### Maintenance
 
-* **ci:** upgrade Code Foundry to v1.9.11 ([#31](https://github.com/0xPlayerOne/pi-cloudflare/issues/31)) ([e8f9852](https://github.com/0xPlayerOne/pi-cloudflare/commit/e8f98525305616f204471d4fd547151c754be9c4))
+* **code-foundry:** upgrade runtime to v1.28.14 ([#57](https://github.com/AndrewM-F/pi-cloudflare/issues/57)) ([fbe81fb](https://github.com/AndrewM-F/pi-cloudflare/commit/fbe81fb6f13692b7cbd061b3a5db6215bbbea177))
 
-## [0.5.4](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.3...pi-cloudflare-v0.5.4) (2026-09-08)
+## [0.6.9](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.8...pi-cloudflare-v0.6.9) (2026-09-11)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.28.11 ([#55](https://github.com/AndrewM-F/pi-cloudflare/issues/55)) ([0d21fdd](https://github.com/AndrewM-F/pi-cloudflare/commit/0d21fdd0b469f33b92ddd287e76c0234a20d73ad))
+
+## [0.6.8](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.7...pi-cloudflare-v0.6.8) (2026-09-11)
+
+
+### Maintenance
+
+* **config:** right-size runner lanes and drop default shard overrides ([#53](https://github.com/AndrewM-F/pi-cloudflare/issues/53)) ([ed7e60b](https://github.com/AndrewM-F/pi-cloudflare/commit/ed7e60b59f843ffe036137d1fa985b0a0808469e))
+
+## [0.6.7](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.6...pi-cloudflare-v0.6.7) (2026-09-11)
+
+
+### Documentation
+
+* **audit:** free-plan hardening applied across 16 zones ([#51](https://github.com/AndrewM-F/pi-cloudflare/issues/51)) ([ef2b6eb](https://github.com/AndrewM-F/pi-cloudflare/commit/ef2b6eb575b91609644274d7a681d7dd680239d0))
+
+## [0.6.6](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.5...pi-cloudflare-v0.6.6) (2026-09-11)
+
+
+### Documentation
+
+* **token:** running PR — agent API token permission gaps ([#49](https://github.com/AndrewM-F/pi-cloudflare/issues/49)) ([4303740](https://github.com/AndrewM-F/pi-cloudflare/commit/4303740ec9f3b5a7a9900cdf1c4a5d94b05fc14a))
+
+## [0.6.5](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.4...pi-cloudflare-v0.6.5) (2026-09-10)
+
+
+### Bug Fixes
+
+* **config:** correct validation file references ([#47](https://github.com/AndrewM-F/pi-cloudflare/issues/47)) ([1b467cb](https://github.com/AndrewM-F/pi-cloudflare/commit/1b467cbffaf71ad34965a3b675311caa7bab7d42))
+
+## [0.6.4](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.3...pi-cloudflare-v0.6.4) (2026-09-10)
+
+
+### Maintenance
+
+* **code-foundry:** upgrade runtime to v1.28.4 ([b1a264b](https://github.com/AndrewM-F/pi-cloudflare/commit/b1a264b21b791de274c25b240a7a19a8bda98a61))
+
+## [0.6.3](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.2...pi-cloudflare-v0.6.3) (2026-09-10)
+
+
+### Maintenance
+
+* **ci:** upgrade Code Foundry to v1.22.1 ([0030a7c](https://github.com/AndrewM-F/pi-cloudflare/commit/0030a7ccf600de2e8c719e1e69003364ea8c3b54))
+* **token:** permissions + result caps + node 24 + CF v1.28.2 ([#42](https://github.com/AndrewM-F/pi-cloudflare/issues/42)) ([0030a7c](https://github.com/AndrewM-F/pi-cloudflare/commit/0030a7ccf600de2e8c719e1e69003364ea8c3b54))
+
+## [0.6.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.1...pi-cloudflare-v0.6.2) (2026-09-09)
+
+
+### Bug Fixes
+
+* **auth:** load native static API token ([#39](https://github.com/AndrewM-F/pi-cloudflare/issues/39)) ([a1a8742](https://github.com/AndrewM-F/pi-cloudflare/commit/a1a8742553f550dba3533db5a0a7d99c0f25f68a))
+
+## [0.6.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.6.0...pi-cloudflare-v0.6.1) (2026-09-09)
+
+
+### Bug Fixes
+
+* **auth:** recover from empty-body MCP auth failures ([#37](https://github.com/AndrewM-F/pi-cloudflare/issues/37)) ([dbb5a88](https://github.com/AndrewM-F/pi-cloudflare/commit/dbb5a88e242caeb85dfbc48fd2bfd86158f0783e))
+
+## [0.6.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.5...pi-cloudflare-v0.6.0) (2026-09-08)
+
+
+### Features
+
+* add Agent Plugins 1.0 dual distribution ([#34](https://github.com/AndrewM-F/pi-cloudflare/issues/34)) ([a4499b3](https://github.com/AndrewM-F/pi-cloudflare/commit/a4499b3c9147678947eb63f7fd0448a475adda66))
+
+
+### Bug Fixes
+
+* **ci:** ignore release-managed plugin manifest formatting ([#36](https://github.com/AndrewM-F/pi-cloudflare/issues/36)) ([f2bb1da](https://github.com/AndrewM-F/pi-cloudflare/commit/f2bb1da3393d7c2d8a4cede625fc51a2edcfad4b))
+
+## [0.5.5](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.4...pi-cloudflare-v0.5.5) (2026-09-08)
+
+
+### Maintenance
+
+* **ci:** upgrade Code Foundry to v1.9.11 ([#31](https://github.com/AndrewM-F/pi-cloudflare/issues/31)) ([e8f9852](https://github.com/AndrewM-F/pi-cloudflare/commit/e8f98525305616f204471d4fd547151c754be9c4))
+
+## [0.5.4](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.3...pi-cloudflare-v0.5.4) (2026-09-08)
 
 
 ### Tests
 
-* **perf:** add M0 regression audit ([#29](https://github.com/0xPlayerOne/pi-cloudflare/issues/29)) ([9ef68b6](https://github.com/0xPlayerOne/pi-cloudflare/commit/9ef68b675db4de21068e2d73796c5e8da17445d1))
+* **perf:** add M0 regression audit ([#29](https://github.com/AndrewM-F/pi-cloudflare/issues/29)) ([9ef68b6](https://github.com/AndrewM-F/pi-cloudflare/commit/9ef68b675db4de21068e2d73796c5e8da17445d1))
 
-## [0.5.3](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.2...pi-cloudflare-v0.5.3) (2026-09-08)
+## [0.5.3](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.2...pi-cloudflare-v0.5.3) (2026-09-08)
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.5.0 ([#27](https://github.com/0xPlayerOne/pi-cloudflare/issues/27)) ([acba3d6](https://github.com/0xPlayerOne/pi-cloudflare/commit/acba3d61223d9067f37cce1fdbe9e64e65976cd8))
+* **code-foundry:** upgrade to v1.5.0 ([#27](https://github.com/AndrewM-F/pi-cloudflare/issues/27)) ([acba3d6](https://github.com/AndrewM-F/pi-cloudflare/commit/acba3d61223d9067f37cce1fdbe9e64e65976cd8))
 
-## [0.5.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.1...pi-cloudflare-v0.5.2) (2026-09-07)
+## [0.5.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.1...pi-cloudflare-v0.5.2) (2026-09-07)
 
 
 ### Bug Fixes
 
-* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#25](https://github.com/0xPlayerOne/pi-cloudflare/issues/25)) ([2da66bf](https://github.com/0xPlayerOne/pi-cloudflare/commit/2da66bf462e9209e1fffecc8a6b14b0578c00716))
+* **ci:** pin generated callers to the adopted v1.4.1 runtime ([#25](https://github.com/AndrewM-F/pi-cloudflare/issues/25)) ([2da66bf](https://github.com/AndrewM-F/pi-cloudflare/commit/2da66bf462e9209e1fffecc8a6b14b0578c00716))
 
 
 ### Maintenance
 
-* **code-foundry:** upgrade to v1.4.1 ([#22](https://github.com/0xPlayerOne/pi-cloudflare/issues/22)) ([8c8e1a4](https://github.com/0xPlayerOne/pi-cloudflare/commit/8c8e1a43529a3346d00554ca976b1c5d05fc20d3))
+* **code-foundry:** upgrade to v1.4.1 ([#22](https://github.com/AndrewM-F/pi-cloudflare/issues/22)) ([8c8e1a4](https://github.com/AndrewM-F/pi-cloudflare/commit/8c8e1a43529a3346d00554ca976b1c5d05fc20d3))
 
-## [0.5.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.5.0...pi-cloudflare-v0.5.1) (2026-09-07)
+## [0.5.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.5.0...pi-cloudflare-v0.5.1) (2026-09-07)
 
 
 ### Maintenance
 
-* adopt code-foundry v1.3.1 baseline and migrate to oxlint/oxfmt ([#19](https://github.com/0xPlayerOne/pi-cloudflare/issues/19)) ([af03771](https://github.com/0xPlayerOne/pi-cloudflare/commit/af03771cea472e2314cbff3e9a35dbbe922915f3))
+* adopt code-foundry v1.3.1 baseline and migrate to oxlint/oxfmt ([#19](https://github.com/AndrewM-F/pi-cloudflare/issues/19)) ([af03771](https://github.com/AndrewM-F/pi-cloudflare/commit/af03771cea472e2314cbff3e9a35dbbe922915f3))
 
-## [0.5.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.4.1...pi-cloudflare-v0.5.0) (2026-09-07)
+## [0.5.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.4.1...pi-cloudflare-v0.5.0) (2026-09-07)
 
 
 ### Features
 
-* migrate formatting and linting from Prettier/ESLint to oxfmt/oxlint ([#17](https://github.com/0xPlayerOne/pi-cloudflare/issues/17)) ([751c9a5](https://github.com/0xPlayerOne/pi-cloudflare/commit/751c9a57a2cd1f96c82fc9af2c6b58f47c997803))
+* migrate formatting and linting from Prettier/ESLint to oxfmt/oxlint ([#17](https://github.com/AndrewM-F/pi-cloudflare/issues/17)) ([751c9a5](https://github.com/AndrewM-F/pi-cloudflare/commit/751c9a57a2cd1f96c82fc9af2c6b58f47c997803))
 
-## [0.4.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.4.0...pi-cloudflare-v0.4.1) (2026-09-06)
+## [0.4.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.4.0...pi-cloudflare-v0.4.1) (2026-09-06)
 
 
 ### Maintenance
 
-* adopt code-foundry v1.1.1 baseline ([#14](https://github.com/0xPlayerOne/pi-cloudflare/issues/14)) ([84297b0](https://github.com/0xPlayerOne/pi-cloudflare/commit/84297b00fe4dec0769a5d0f694d7c209a3c69a50))
+* adopt code-foundry v1.1.1 baseline ([#14](https://github.com/AndrewM-F/pi-cloudflare/issues/14)) ([84297b0](https://github.com/AndrewM-F/pi-cloudflare/commit/84297b00fe4dec0769a5d0f694d7c209a3c69a50))
 
-## [0.4.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.3.1...pi-cloudflare-v0.4.0) (2026-09-06)
+## [0.4.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.3.1...pi-cloudflare-v0.4.0) (2026-09-06)
 
 
 ### Features
 
-* api-token lifecycle skills (create, roll, scopes) + validation findings ([#12](https://github.com/0xPlayerOne/pi-cloudflare/issues/12)) ([2c7b241](https://github.com/0xPlayerOne/pi-cloudflare/commit/2c7b24150777dcea667184bd6b5f26d1d069b0f0))
-* exact API token recipe with verifier script ([9b5bd9e](https://github.com/0xPlayerOne/pi-cloudflare/commit/9b5bd9e9b7c5017f1d5c7ac2beb002eb9249a036))
+* api-token lifecycle skills (create, roll, scopes) + validation findings ([#12](https://github.com/AndrewM-F/pi-cloudflare/issues/12)) ([2c7b241](https://github.com/AndrewM-F/pi-cloudflare/commit/2c7b24150777dcea667184bd6b5f26d1d069b0f0))
+* exact API token recipe with verifier script ([9b5bd9e](https://github.com/AndrewM-F/pi-cloudflare/commit/9b5bd9e9b7c5017f1d5c7ac2beb002eb9249a036))
 
 
 ### Documentation
 
-* wrangler CLI vs MCP routing table ([8101016](https://github.com/0xPlayerOne/pi-cloudflare/commit/8101016b1db9d07639f1a0dea9a697b34e30caed))
+* wrangler CLI vs MCP routing table ([8101016](https://github.com/AndrewM-F/pi-cloudflare/commit/8101016b1db9d07639f1a0dea9a697b34e30caed))
 
-## [0.3.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.3.0...pi-cloudflare-v0.3.1) (2026-09-06)
+## [0.3.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.3.0...pi-cloudflare-v0.3.1) (2026-09-06)
 
 
 ### Bug Fixes
 
-* **auth:** drop unproven offline_access scope support ([3ce0210](https://github.com/0xPlayerOne/pi-cloudflare/commit/3ce0210fc6c8020e3ba0b4a2d33ffddb6bec2ee2))
+* **auth:** drop unproven offline_access scope support ([3ce0210](https://github.com/AndrewM-F/pi-cloudflare/commit/3ce0210fc6c8020e3ba0b4a2d33ffddb6bec2ee2))
 
-## [0.3.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.2.4...pi-cloudflare-v0.3.0) (2026-09-06)
+## [0.3.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.2.4...pi-cloudflare-v0.3.0) (2026-09-06)
 
 
 ### Features
 
-* durable auth via static API token plus graceful re-auth recovery ([357109c](https://github.com/0xPlayerOne/pi-cloudflare/commit/357109cbac8c75fe006b71e55b72ee742ebce32b))
-* durable auth via static API token plus graceful re-auth recovery ([9b1da66](https://github.com/0xPlayerOne/pi-cloudflare/commit/9b1da6627b16204833d347b52f67f511432574c4))
+* durable auth via static API token plus graceful re-auth recovery ([357109c](https://github.com/AndrewM-F/pi-cloudflare/commit/357109cbac8c75fe006b71e55b72ee742ebce32b))
+* durable auth via static API token plus graceful re-auth recovery ([9b1da66](https://github.com/AndrewM-F/pi-cloudflare/commit/9b1da6627b16204833d347b52f67f511432574c4))
 
-## [0.2.4](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.2.3...pi-cloudflare-v0.2.4) (2026-09-06)
-
-
-### Maintenance
-
-* **sync:** adopt code-foundry v1.0.4 baseline ([9141c36](https://github.com/0xPlayerOne/pi-cloudflare/commit/9141c36eb205d92a43aad7dc2725980366d9cbdf))
-
-## [0.2.3](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.2.2...pi-cloudflare-v0.2.3) (2026-09-06)
+## [0.2.4](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.2.3...pi-cloudflare-v0.2.4) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.3 baseline ([1d9c55d](https://github.com/0xPlayerOne/pi-cloudflare/commit/1d9c55d37e4763c22d3864ab79478790f1134fea))
+* **sync:** adopt code-foundry v1.0.4 baseline ([9141c36](https://github.com/AndrewM-F/pi-cloudflare/commit/9141c36eb205d92a43aad7dc2725980366d9cbdf))
 
-## [0.2.2](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.2.1...pi-cloudflare-v0.2.2) (2026-09-06)
+## [0.2.3](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.2.2...pi-cloudflare-v0.2.3) (2026-09-06)
+
+
+### Maintenance
+
+* **sync:** adopt code-foundry v1.0.3 baseline ([1d9c55d](https://github.com/AndrewM-F/pi-cloudflare/commit/1d9c55d37e4763c22d3864ab79478790f1134fea))
+
+## [0.2.2](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.2.1...pi-cloudflare-v0.2.2) (2026-09-06)
 
 
 ### Documentation
 
-* architecture diagram and troubleshooting ([f504a88](https://github.com/0xPlayerOne/pi-cloudflare/commit/f504a88280ce1090dc354666b195dd6776de8f4e))
+* architecture diagram and troubleshooting ([f504a88](https://github.com/AndrewM-F/pi-cloudflare/commit/f504a88280ce1090dc354666b195dd6776de8f4e))
 
-## [0.2.1](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.2.0...pi-cloudflare-v0.2.1) (2026-09-06)
+## [0.2.1](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.2.0...pi-cloudflare-v0.2.1) (2026-09-06)
 
 
 ### Maintenance
 
-* **sync:** adopt code-foundry v1.0.2 baseline ([29c2805](https://github.com/0xPlayerOne/pi-cloudflare/commit/29c280517af489881da729ad14a5ca24b92ed849))
+* **sync:** adopt code-foundry v1.0.2 baseline ([29c2805](https://github.com/AndrewM-F/pi-cloudflare/commit/29c280517af489881da729ad14a5ca24b92ed849))
 
-## [0.2.0](https://github.com/0xPlayerOne/pi-cloudflare/compare/pi-cloudflare-v0.1.0...pi-cloudflare-v0.2.0) (2026-09-05)
+## [0.2.0](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.1.0...pi-cloudflare-v0.2.0) (2026-09-05)
 
 
 ### Features
 
-* Cloudflare MCP extension with vendored skills and OAuth setup ([3ef754c](https://github.com/0xPlayerOne/pi-cloudflare/commit/3ef754cf40b3b9e89beb18dd3089f51f05679fed))
+* Cloudflare MCP extension with vendored skills and OAuth setup ([3ef754c](https://github.com/AndrewM-F/pi-cloudflare/commit/3ef754cf40b3b9e89beb18dd3089f51f05679fed))
 
 
 ### Bug Fixes
 
-* **ci:** drop pip updates for JS-only package; hold TS toolchain below v7 ([25a6172](https://github.com/0xPlayerOne/pi-cloudflare/commit/25a6172cef4a77ae0affaed16cef118987a5d782))
-* **ci:** use packages manifest shape so releases resolve their baseline ([8415dd2](https://github.com/0xPlayerOne/pi-cloudflare/commit/8415dd264306615921513f1bda50ec6d49c34583))
-* document web-perf exclusion in install notes ([38e3d53](https://github.com/0xPlayerOne/pi-cloudflare/commit/38e3d530d01c001c92a6e4aafdb3c110caad09d7))
-* MIT license throughout; repo-owned format gate; pin TS toolchain ([8dd9b5b](https://github.com/0xPlayerOne/pi-cloudflare/commit/8dd9b5b84d55503a43e5f13ee52ede9305cabb6d))
+* **ci:** drop pip updates for JS-only package; hold TS toolchain below v7 ([25a6172](https://github.com/AndrewM-F/pi-cloudflare/commit/25a6172cef4a77ae0affaed16cef118987a5d782))
+* **ci:** use packages manifest shape so releases resolve their baseline ([8415dd2](https://github.com/AndrewM-F/pi-cloudflare/commit/8415dd264306615921513f1bda50ec6d49c34583))
+* document web-perf exclusion in install notes ([38e3d53](https://github.com/AndrewM-F/pi-cloudflare/commit/38e3d530d01c001c92a6e4aafdb3c110caad09d7))
+* MIT license throughout; repo-owned format gate; pin TS toolchain ([8dd9b5b](https://github.com/AndrewM-F/pi-cloudflare/commit/8dd9b5b84d55503a43e5f13ee52ede9305cabb6d))
 
 
 ### Documentation
 
-* published reality, npx setup form, no-dup install notes ([e87949d](https://github.com/0xPlayerOne/pi-cloudflare/commit/e87949da5de2a1223129c91e61ae3c257679cff3))
+* published reality, npx setup form, no-dup install notes ([e87949d](https://github.com/AndrewM-F/pi-cloudflare/commit/e87949da5de2a1223129c91e61ae3c257679cff3))
 
 
 ### Maintenance
 
-* **ci:** adopt code-foundry v0.40.2 runtime and ignore overlaid actions ([ee7a31c](https://github.com/0xPlayerOne/pi-cloudflare/commit/ee7a31c9a9698c02a1046f5515f78efc1ae46814))
-* **ci:** align prettierignore with runtime template ([4bfb871](https://github.com/0xPlayerOne/pi-cloudflare/commit/4bfb8717f5b036037619d6bf7392ddf55eab5ce5))
-* **ci:** preserve authored MIT license on sync ([0ef13fd](https://github.com/0xPlayerOne/pi-cloudflare/commit/0ef13fd16774f56bb0d7333263f6146caa4472d6))
-* **ci:** publish releases to npm ([55f99bb](https://github.com/0xPlayerOne/pi-cloudflare/commit/55f99bb0166cb1b1b59452ea4ef0687c398d34a6))
-* **main:** release 0.1.1 ([ca08963](https://github.com/0xPlayerOne/pi-cloudflare/commit/ca08963224198a2e71e043df2a7d65b3e67ccf51))
-* **sync:** adopt code-foundry v0.40.3 baseline ([36cc8c8](https://github.com/0xPlayerOne/pi-cloudflare/commit/36cc8c8f90a6804148585bd09107726afc9b1c68))
-* **sync:** adopt code-foundry v1.0.0 baseline ([e596706](https://github.com/0xPlayerOne/pi-cloudflare/commit/e596706ea437d2f50c1485358e1fcf2bc7f9a826))
-* **sync:** adopt code-foundry v1.0.1 baseline ([dce1e0e](https://github.com/0xPlayerOne/pi-cloudflare/commit/dce1e0e07640e201f91de7919736e1f4ab77c035))
+* **ci:** adopt code-foundry v0.40.2 runtime and ignore overlaid actions ([ee7a31c](https://github.com/AndrewM-F/pi-cloudflare/commit/ee7a31c9a9698c02a1046f5515f78efc1ae46814))
+* **ci:** align prettierignore with runtime template ([4bfb871](https://github.com/AndrewM-F/pi-cloudflare/commit/4bfb8717f5b036037619d6bf7392ddf55eab5ce5))
+* **ci:** preserve authored MIT license on sync ([0ef13fd](https://github.com/AndrewM-F/pi-cloudflare/commit/0ef13fd16774f56bb0d7333263f6146caa4472d6))
+* **ci:** publish releases to npm ([55f99bb](https://github.com/AndrewM-F/pi-cloudflare/commit/55f99bb0166cb1b1b59452ea4ef0687c398d34a6))
+* **main:** release 0.1.1 ([ca08963](https://github.com/AndrewM-F/pi-cloudflare/commit/ca08963224198a2e71e043df2a7d65b3e67ccf51))
+* **sync:** adopt code-foundry v0.40.3 baseline ([36cc8c8](https://github.com/AndrewM-F/pi-cloudflare/commit/36cc8c8f90a6804148585bd09107726afc9b1c68))
+* **sync:** adopt code-foundry v1.0.0 baseline ([e596706](https://github.com/AndrewM-F/pi-cloudflare/commit/e596706ea437d2f50c1485358e1fcf2bc7f9a826))
+* **sync:** adopt code-foundry v1.0.1 baseline ([dce1e0e](https://github.com/AndrewM-F/pi-cloudflare/commit/dce1e0e07640e201f91de7919736e1f4ab77c035))

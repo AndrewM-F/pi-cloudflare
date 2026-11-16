@@ -11,13 +11,13 @@
     "pi-package",
     "skills"
   ],
-  "homepage": "https://github.com/0xPlayerOne/pi-cloudflare#readme",
-  "bugs": "https://github.com/0xPlayerOne/pi-cloudflare/issues",
+  "homepage": "https://github.com/AndrewM-F/pi-cloudflare#readme",
+  "bugs": "https://github.com/AndrewM-F/pi-cloudflare/issues",
   "license": "MIT",
-  "author": "0xPlayerOne",
+  "author": "AndrewM-F",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xPlayerOne/pi-cloudflare.git"
+    "url": "https://github.com/AndrewM-F/pi-cloudflare.git"
   },
   "files": [
     "skills",

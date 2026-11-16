@@ -25,10 +25,10 @@ jobs:
       issues: read
       packages: read
       security-events: write
-    uses: 0xPlayerOne/code-foundry/.github/workflows/validation.yml@v1.48.8
+    uses: AndrewM-F/code-foundry/.github/workflows/validation.yml@v1.48.8
     with:
       mode: audit
-      runtime-repository: 0xPlayerOne/code-foundry
+      runtime-repository: AndrewM-F/code-foundry
       runtime-ref: v1.48.8
       ci-runner: ubuntu-slim
       test-runner: ubuntu-slim
