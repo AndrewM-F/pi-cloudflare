@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.17](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.16...pi-cloudflare-v0.11.17) (2026-11-16)
+
+
+### Maintenance
+
+* **deps-dev:** bump the bun-dependencies group across 1 directory with 2 updates ([#125](https://github.com/AndrewM-F/pi-cloudflare/issues/125)) ([41c99ea](https://github.com/AndrewM-F/pi-cloudflare/commit/41c99ea216c51260390b6127712a2be926b52a33))
+
 ## [0.11.16](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.15...pi-cloudflare-v0.11.16) (2026-11-16)
 
 
