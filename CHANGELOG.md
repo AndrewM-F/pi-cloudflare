@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.18](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.17...pi-cloudflare-v0.11.18) (2026-11-23)
+
+
+### Maintenance
+
+* **deps-dev:** bump oxfmt to 0.79.0 ([#128](https://github.com/AndrewM-F/pi-cloudflare/issues/128)) ([0795b01](https://github.com/AndrewM-F/pi-cloudflare/commit/0795b0169ef0ab6effa5dcb489c89bd833898949))
+
 ## [0.11.17](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.16...pi-cloudflare-v0.11.17) (2026-11-16)
 
 
