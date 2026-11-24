@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.11.19](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.18...pi-cloudflare-v0.11.19) (2026-11-24)
+
+
+### Maintenance
+
+* relicense to Apache-2.0 ([#130](https://github.com/AndrewM-F/pi-cloudflare/issues/130)) ([bb37d72](https://github.com/AndrewM-F/pi-cloudflare/commit/bb37d72d2c9ff29e1897a1c9291dc9fc3447dfed))
+
 ## [0.11.18](https://github.com/AndrewM-F/pi-cloudflare/compare/pi-cloudflare-v0.11.17...pi-cloudflare-v0.11.18) (2026-11-23)
 
 
